@@ -16,7 +16,7 @@
 
 ### 💼 Professional Experience
 
-#### Cybs Innovations Pvt. Ltd. (2023 - Present)
+#### [Cybs Innovations Pvt. Ltd.](https://www.cybsinnovations.com) (2023 - Present)
 As the Founder and CEO of Cybs Innovations, I lead a team of talented individuals and oversee the development of cutting-edge web solutions. Our projects encompass various industries, and we specialize in utilizing the latest technologies to deliver exceptional user experiences.
 
 #### Freelance Full-Stack Developer (2020 - 2022)
