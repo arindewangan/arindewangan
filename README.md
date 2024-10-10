@@ -45,6 +45,8 @@ I'm always interested in collaborating on exciting projects. If you'd like to wo
 Check out some of my notable projects on GitHub:
 
 - [Earthverse](https://github.com/arindewangan/earthverse): The Metaverse built with Next Js and What3Words API.
+- [Trax AI](https://github.com/arindewangan/trax-ai): A Next.js app using OpenWeatherMap and Gemini for weather-based travel planning. (Hackathon Winner)
+- [Farmfuture](https://github.com/arindewangan/farmfuture): FarmFuture helps farmers find the best crops for their land by predicting a Suitability Score based on climate and soil data.
 - [Food Finder](https://github.com/arindewangan/foodfinder): Predicts Possible food names, which can be made using given ingredients.
 - [Spotify Clone](https://github.com/arindewangan/spotify-clone): The clone of Spotify Music Player Website.
 - [News App](https://github.com/arindewangan/NewsApp-React): React webapp that provides users with the latest news from various sources.
