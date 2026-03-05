@@ -2,7 +2,7 @@
 
 ## Entrepreneur | Traveller | Ethical Hacker | Coder
 
-👋 Hello, I'm Arin! Welcome to my GitHub profile. I'm a highly skilled and experienced full-stack developer with a passion for web development, content creation, and hacking. I thrive on challenges and deliver exceptional results through innovative thinking and attention to detail.
+👋 Hello, I'm Arin! Welcome to my GitHub profile. I'm a full-stack developer with a passion for web development, content creation, and hacking. I thrive on challenges and deliver exceptional results through innovative thinking and attention to detail.
 
 ### 🚀 Technologies and Tools
 
